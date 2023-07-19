@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.13](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.12...v1.0.13) (2023-07-19)
+
+
+### Bug Fixes
+
+* Create direct add via main ([6099185](https://github.com/Devlp01/book-github-actions-content/commit/6099185cc2e43ccb2fb8f3c6ee6ebc9897553f60))
+* update file via feat 8 ([b2feebe](https://github.com/Devlp01/book-github-actions-content/commit/b2feebec4cb42ea69a494dac35056b8b3370fe00))
+
 ## [1.0.12](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.11...v1.0.12) (2023-07-19)
 
 
