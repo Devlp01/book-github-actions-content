@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.11](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.10...v1.0.11) (2023-07-19)
+
+
+### Bug Fixes
+
+* Create add file while PR RP open ([b731c9b](https://github.com/Devlp01/book-github-actions-content/commit/b731c9bfe452ab4b886cdd47c623c95d78745e97))
+* modification simple feat 6 Update test_ajout_indirect.txt ([6af04d1](https://github.com/Devlp01/book-github-actions-content/commit/6af04d10f91eb29c792e1e179469552cd88562fc))
+
 ## [1.0.10](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.9...v1.0.10) (2023-07-19)
 
 
