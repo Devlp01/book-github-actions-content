@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.8...v1.0.9) (2023-07-19)
+
+
+### Bug Fixes
+
+* Update test_ajout_indirect.txt ([d10af29](https://github.com/Devlp01/book-github-actions-content/commit/d10af29c5e94ce6992a1aff4db5d00456ac74b87))
+
 ## [1.0.8](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.7...v1.0.8) (2023-07-19)
 
 
