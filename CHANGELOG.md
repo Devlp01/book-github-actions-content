@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.12](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.11...v1.0.12) (2023-07-19)
+
+
+### Bug Fixes
+
+* Create add file after PR feat 7 on main ([fee0382](https://github.com/Devlp01/book-github-actions-content/commit/fee0382a8d769eda0e0cf665dca404b48d2c2373))
+* Update test3 via feat 7 ([3c75153](https://github.com/Devlp01/book-github-actions-content/commit/3c75153dbe80d552cf24b293d7dbc18bbf455085))
+
 ## [1.0.11](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.10...v1.0.11) (2023-07-19)
 
 
