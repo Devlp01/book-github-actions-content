@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.7...v1.0.8) (2023-07-19)
+
+
+### Bug Fixes
+
+* Update test3 ([f502282](https://github.com/Devlp01/book-github-actions-content/commit/f502282a65717f55e1beddcf2da6d9e26d4e1e8a))
+
 ## [1.0.7](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.6...v1.0.7) (2023-07-19)
 
 
