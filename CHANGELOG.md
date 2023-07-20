@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.14](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.13...v1.0.14) (2023-07-20)
+
+
+### Bug Fixes
+
+* Create feat9 ([3d5734f](https://github.com/Devlp01/book-github-actions-content/commit/3d5734fa4b8b755c3fb9e8450e98d6c14da23aa9))
+* Update feat9 ([da9044f](https://github.com/Devlp01/book-github-actions-content/commit/da9044f8b4b205e78b1772afa91a85bbaaa18793))
+* Update feat9 on main ([f75f7f9](https://github.com/Devlp01/book-github-actions-content/commit/f75f7f913301755db6ef1fa3fd694a7715cfe15b))
+* Update feat9 on main ([a6407fa](https://github.com/Devlp01/book-github-actions-content/commit/a6407fadc0c7a0e196f0409acbac61b0475e59a0))
+
 ## [1.0.13](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.12...v1.0.13) (2023-07-19)
 
 
