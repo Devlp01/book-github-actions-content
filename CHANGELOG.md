@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.15](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.14...v1.0.15) (2023-07-20)
+
+
+### Bug Fixes
+
+* Create feat10 ([8803902](https://github.com/Devlp01/book-github-actions-content/commit/8803902342b8dd5341e3262b4ab5902ad7e8b0ec))
+* Update feat10 ([e400fcd](https://github.com/Devlp01/book-github-actions-content/commit/e400fcdbcc3ab086fb2938d4ef57febb70de665c))
+
 ## [1.0.14](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.13...v1.0.14) (2023-07-20)
 
 
