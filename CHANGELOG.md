@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.17](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.16...v1.0.17) (2023-07-20)
+
+
+### Bug Fixes
+
+* simple modif depuis feat 12 Update test_ajout_indirect.txt ([9f47548](https://github.com/Devlp01/book-github-actions-content/commit/9f47548387e7b2b2a24139cff32fcfc2cdae9b7f))
+* Update feat11 ([663f3a6](https://github.com/Devlp01/book-github-actions-content/commit/663f3a6feb5870a571f664225b85ba6832d2e874))
+
 ## [1.0.16](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.15...v1.0.16) (2023-07-20)
 
 
