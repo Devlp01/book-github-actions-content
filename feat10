@@ -1,2 +1,3 @@
 create feat 10 on main
 update feat 10 from feat 10
+update feat 10 from main
