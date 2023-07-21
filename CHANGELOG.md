@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.19](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.18...v1.0.19) (2023-07-21)
+
+
+### Bug Fixes
+
+* simple update directly made on main branch ([5fa663f](https://github.com/Devlp01/book-github-actions-content/commit/5fa663f9083b72804576d3a8cd7d352e9ea8720e))
+
 ## [1.0.18](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.17...v1.0.18) (2023-07-20)
 
 
