@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.24](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.20...v1.0.24) (2023-10-15)
+
+
+### Bug Fixes
+
+* Update 3 manual_release.yml ([bcb7c4a](https://github.com/Devlp01/book-github-actions-content/commit/bcb7c4aa9aa0967c7ffa80052d9e68958223dfe5))
+* Update 4 manual_release.yml ([af098b4](https://github.com/Devlp01/book-github-actions-content/commit/af098b4ba94cd21e1c12be1da854604e5ba60753))
+
 ## [1.0.20](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.19...v1.0.20) (2023-10-15)
 
 
