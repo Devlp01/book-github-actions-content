@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.26](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.25...v1.0.26) (2023-10-15)
+
+
+### Bug Fixes
+
+* 3eme ajout alors que la pr RPLZ est open ([f202022](https://github.com/Devlp01/book-github-actions-content/commit/f2020226057395909f00be97e8020814a24bcada))
+* merge external commit feat 14 sur main ([a35f5ad](https://github.com/Devlp01/book-github-actions-content/commit/a35f5ad1ef21f0ed52d30e1f283b8a2b6b751a92))
+
 ## [1.0.25](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.24...v1.0.25) (2023-10-15)
 
 
