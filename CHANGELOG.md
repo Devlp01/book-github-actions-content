@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.20](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.19...v1.0.20) (2023-10-15)
+
+
+### Bug Fixes
+
+* Create dcommitmain.txt ([3a8fde2](https://github.com/Devlp01/book-github-actions-content/commit/3a8fde2cc82232b795c704db649cbc6d4c32ef94))
+
 ## [1.0.19](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.18...v1.0.19) (2023-07-21)
 
 
