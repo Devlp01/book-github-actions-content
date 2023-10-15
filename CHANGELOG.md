@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.25](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.24...v1.0.25) (2023-10-15)
+
+
+### Bug Fixes
+
+* Revert to standard release flow without forcing version ([39a53b0](https://github.com/Devlp01/book-github-actions-content/commit/39a53b026e4fd42d88b74259fdd15ed457b13f5a))
+
 ## [1.0.24](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.20...v1.0.24) (2023-10-15)
 
 
