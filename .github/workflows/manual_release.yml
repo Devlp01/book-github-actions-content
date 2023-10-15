@@ -30,6 +30,6 @@ jobs:
         with:
           release-type: node
           release-as: v1.0.24
-          last-release-sha: d49d4373
+          last-release-sha: d49d4373cbf39fdf66a87d90e2ef16244d2621f4
           package-name: BTST
           default-branch: ${{ steps.get_branch.outputs.branch }}
