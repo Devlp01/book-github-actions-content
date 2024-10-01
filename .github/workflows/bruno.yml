@@ -1,0 +1,32 @@
+on: 
+    # Use case : Run on manual trigger
+    workflow_dispatch:
+    workflow_call:
+      inputs:
+        env_var:
+          required: false
+          type: string
+ 
+jobs:
+  run-bruno:
+    runs-on: [standard, self-hosted, linux]
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Install dependencies
+      run: |
+        npm install -g @usebruno/cli
+      shell: bash
+  
+    - name: Test       
+      env: 
+        TEST_ONE: ${{ secrets.TEST_ONE }} 
+        TEST_SECRET_ID: ${{ secrets.TEST_SECRET_ID }}
+      run: |
+        echo "${{ secrets.TEST_ONE}}" 
+        echo "${{ secrets.TEST_SECRET_ID}}" 
+        cd bruno/book
+        bru run --env DEV --env-var url="${{ secrets.TEST_SECRET_ID }}"
+      shell: bash
