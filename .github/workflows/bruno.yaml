@@ -1,3 +1,5 @@
+name: jobs - test bruno
+
 on: 
     # Use case : Run on manual trigger
     workflow_dispatch:
@@ -9,7 +11,7 @@ on:
  
 jobs:
   run-bruno:
-    runs-on: [standard, self-hosted, linux]
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
