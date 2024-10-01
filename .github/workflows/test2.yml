@@ -13,3 +13,4 @@ jobs:
         echo "World"
         echo "${{ secrets.TEST_ONE }}"
         echo "${{ secrets.TEST_ONE }}" | sed 's/./& /g'
+      shell: bash
