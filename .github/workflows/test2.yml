@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     #- uses: mxschmitt/action-tmate@v3.11
-      - run: | 
+      - name: Hello
+        run: | 
           echo "Hello"
           echo "World"
           echo "${{ secrets.TEST_ONE }}"
