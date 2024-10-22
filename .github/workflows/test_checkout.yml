@@ -1,0 +1,41 @@
+name: test_checkout
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        required: false
+        default: 'main'
+        description: "Branche à utiliser"
+
+  workflow_call:
+    inputs:
+      branch:
+        required: false
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Définir la branche à utiliser
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            # Utiliser la branche spécifiée lors de l'exécution manuelle ou 'main' par défaut
+            echo "BRANCH=${{ github.event.inputs.branch }}" >> $GITHUB_ENV
+          elif [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            # Utiliser la branche source de la PR
+            echo "BRANCH=${{ github.event.pull_request.head.ref }}" >> $GITHUB_ENV
+          else
+            # Utiliser la branche passée via un workflow_call
+            echo "BRANCH=${{ inputs.branch }}" >> $GITHUB_ENV
+          fi
+
+      - name: Afficher la branche
+        run: | 
+          echo Branch utilisée : "${BRANCH}"
+
+      - name: Checkout du code sur la branche correcte
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ env.BRANCH }}

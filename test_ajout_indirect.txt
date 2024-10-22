@@ -1,0 +1,9 @@
+test ajout fichier indirect simple commit
+modification avec long commit
+modification avec long commit 2
+modification avec commit court
+modification simple avec commit court
+modification simple avec commit court
+modification simple avec commit court
+modification simple avec commit court depuis feat12
+modification simple avec commit court depuis feat13

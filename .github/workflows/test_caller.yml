@@ -1,0 +1,11 @@
+name: call checkout
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  checkout:
+    uses: ./.github/workflows/test_checkout.yml
+    with:
+      branch: ${{ github.event.pull_request.head.ref }}
