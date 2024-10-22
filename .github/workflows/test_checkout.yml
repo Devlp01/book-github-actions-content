@@ -38,4 +38,5 @@ jobs:
       - name: Checkout du code sur la branche correcte
         uses: actions/checkout@v4
         with:
-          ref: ${{ env.BRANCH }}
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.ref || github.event.inputs.branch }}
+          #ref: ${{ env.BRANCH }}
