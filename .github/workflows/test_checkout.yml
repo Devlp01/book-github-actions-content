@@ -31,7 +31,8 @@ jobs:
             echo "BRANCH=${{ inputs.branch }}" >> $GITHUB_ENV
 
       - name: Afficher la branche
-        run: echo "Branch utilisée : $BRANCH"
+        run: | 
+          echo Branch utilisée : "${BRANCH}"
 
       - name: Checkout du code sur la branche correcte
         uses: actions/checkout@v4
