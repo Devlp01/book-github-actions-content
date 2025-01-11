@@ -15,3 +15,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: v${{ github.event.inputs.version }}
+      - name: Display CHANGELOG.md
+        run: |
+          if [ -f CHANGELOG.md ]; then
+            echo "Content of CHANGELOG.md:"
+            cat CHANGELOG.md
+          else
+            echo "CHANGELOG.md not found in the repository."
+          fi
