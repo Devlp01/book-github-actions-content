@@ -9,7 +9,7 @@ on:
 jobs:
   config:
     name: Configuration step
-    runs-on: [ubuntu]
+    runs-on: [ubuntu-latest]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
