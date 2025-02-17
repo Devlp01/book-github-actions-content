@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Devlp01/book-github-actions-content/compare/v1.1.0...v1.2.0) (2025-02-17)
+
+
+### Features
+
+* Update direct add (while bug rplz on) ([871512f](https://github.com/Devlp01/book-github-actions-content/commit/871512fd26cd67a14af5f2f725056e183b991084))
+
 ## [1.1.0](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.26...v1.1.0) (2025-02-17)
 
 
