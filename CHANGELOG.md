@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Devlp01/book-github-actions-content/compare/v1.2.0...v1.2.1) (2025-02-17)
+
+
+### Bug Fixes
+
+* Update direct add ([d10b525](https://github.com/Devlp01/book-github-actions-content/commit/d10b525aa596c637438b5a1ac4b632e0b72a740a))
+
 ## [1.2.0](https://github.com/Devlp01/book-github-actions-content/compare/v1.1.0...v1.2.0) (2025-02-17)
 
 
