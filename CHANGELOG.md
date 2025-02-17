@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.26...v1.1.0) (2025-02-17)
+
+
+### Features
+
+* test ([b886cca](https://github.com/Devlp01/book-github-actions-content/commit/b886cca4c63d63aeed12b0a42650a0d4ae556e90))
+* test ([4eb70c5](https://github.com/Devlp01/book-github-actions-content/commit/4eb70c58da6d022aef31152ed63a1598feabe8d5))
+* test ([1f5f400](https://github.com/Devlp01/book-github-actions-content/commit/1f5f400b598c8aed5274c5346d47a9565473605e))
+* test ([dc93b44](https://github.com/Devlp01/book-github-actions-content/commit/dc93b44502137c9e891f57017f67f85cb38c1815))
+* test ([09ac152](https://github.com/Devlp01/book-github-actions-content/commit/09ac152b580023b5c7a63a5f08a10f1f64d2aa7f))
+* test ([7174bf3](https://github.com/Devlp01/book-github-actions-content/commit/7174bf38a152f536e9211c590246327bc732d100))
+* Update direct add ([db1e2a5](https://github.com/Devlp01/book-github-actions-content/commit/db1e2a5db0eb72eef52f78424c66faf912021a39))
+
 ## [1.0.26](https://github.com/Devlp01/book-github-actions-content/compare/v1.0.25...v1.0.26) (2023-10-15)
 
 
